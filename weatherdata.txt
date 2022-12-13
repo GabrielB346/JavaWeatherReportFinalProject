@@ -1,0 +1,10 @@
+Event ID: Event , Event Type: Thunderstorm , District: Miami Dade , Beginning Date: 03/17/2003 , Start Time: 2000 , Deaths: 1 , Injuries: 15 , Damages: 3000 , Latitude and Longitude: 190,108
+Here is the total amount of incidients: 1
+Total Deaths: 1.0
+Here's the dates and Event IDs where some has died: 
+Event 03/17/2003
+Average Damages:2000.0
+Here is all the dates for all recorded heat events: 
+The Start Times (in military) for thunder storms are as follows: 
+2000
+Here's the total property damage: $3000.0
